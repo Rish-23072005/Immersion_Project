@@ -1,4 +1,0 @@
-This is a dummy file for testing purposes.
-Created on: 2024
-Repository: Immersion_Project
-Description: This file is created to test GitHub repository integration. 
